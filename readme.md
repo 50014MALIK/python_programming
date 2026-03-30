@@ -5,3 +5,4 @@
 ### AI ka chilla 2026
 
 ### Course is 40 days 
+### proper pactices day by say
