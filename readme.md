@@ -3,3 +3,5 @@
 ## python programming with codanics
 
 ### AI ka chilla 2026
+
+## Course is 40 days 
